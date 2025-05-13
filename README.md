@@ -4,6 +4,9 @@ Article Scraper is a web scraping tool designed to extract news articles from va
 
 The scraper supports both keyword-based and archive-based extraction, depending on the structure of each website. The system is currently verified to work as of May 13, 2025, but future changes to the structure of the target websites may require updates to the scraper.
 
+![](Article_scraper_gif.gif)
+
+
 ## Key Features
 
 - Scrapes news articles from six predefined country-specific sources.
