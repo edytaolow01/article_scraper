@@ -23,7 +23,7 @@ The scraper supports both keyword-based and archive-based extraction, depending 
 
 ## Prerequisites
 
-- Python 3.12.7 version (other may do not work!)
+- Python 3.12.7 version (other may not work!)
 - Conda (optioally Miniconda or Anaconda)
 
 
